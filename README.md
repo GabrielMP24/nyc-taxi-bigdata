@@ -37,6 +37,7 @@ Análisis de 11.6 millones de viajes de taxis amarillos de Nueva York
 - `results_trip_by_hour.csv` — Tabla de trips_by_hour
 - `results_trip_by_zone.csv` — Tabla de trips_by_zone
 - `pipeline_nyc_taxi.sql` — SQL de del pipeline
+- `Presentacil Final` — Presentacion final del proyecto de datos masivos
 - `Video de demostracion:` — https://www.youtube.com/watch?v=qFT3uUy1AKw
 
 ## Dataset
