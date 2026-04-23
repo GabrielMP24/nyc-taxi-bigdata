@@ -29,10 +29,15 @@ Análisis de 11.6 millones de viajes de taxis amarillos de Nueva York
 | Gráficas producidas | 3 |
 
 ## Archivos
-- `NYC_Taxi_Visualizaciones.ipynb` — Notebook con análisis y gráficas
+- `NYC_Taxi_Visualizaciones.ipynb` — Codigo con python y sql para todo el procedumiento del pipeline
 - `grafica_demanda_hora.png` — Viajes por hora del día
 - `grafica_top_zonas.png` — Top 10 zonas de recogida
 - `grafica_propina_dist.png` — Propina promedio por distancia
+- `results_tip_by_distance.csv` — Tabla de tip_by_distance
+- `results_trip_by_hour.csv` — Tabla de trips_by_hour
+- `results_trip_by_zone.csv` — Tabla de trips_by_zone
+- `pipeline_nyc_taxi.sql` — SQL de del pipeline
+- `Video de demostracion:` — https://www.youtube.com/watch?v=qFT3uUy1AKw
 
 ## Dataset
 - **Fuente:** NYC Taxi & Limousine Commission
